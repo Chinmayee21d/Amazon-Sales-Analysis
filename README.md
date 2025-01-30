@@ -43,9 +43,8 @@ This project provides a comprehensive analysis of Amazon sales data through vari
 - Matplotlib
 - Scikit-learn
 - Streamlit (or any other framework used for visualizations)
-![Screenshot (344)](https://github.com/user-attachments/assets/2c5f7696-95e9-42e4-9375-1dea6970750c)
-![Screenshot (341)](https://github.com/user-attachments/assets/ae8958a5-835f-48b0-aa48-1463cc3ffd27)
-![Screenshot (332)](https://github.com/user-attachments/assets/3f37624a-8b8a-48b1-96a4-e1cce10c359d)
+
+
 
 
 
